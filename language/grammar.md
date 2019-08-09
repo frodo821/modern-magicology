@@ -11,6 +11,19 @@
 * 子音
   * b, c, s, y, p, r, n
 
+## 数詞
+0. no
+1. uns
+2. bir
+3. ceb
+4. po
+5. yee
+6. pey
+7. sep
+8. oco
+9. nip
+10. cen
+
 ## 名詞
 名詞の格変化を以下に示します。
 
