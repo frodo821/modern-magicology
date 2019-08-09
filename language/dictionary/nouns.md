@@ -41,6 +41,7 @@
 * [yu](content/Y.md#yu)
 
 ## P
+<!--TODO: 説明未作成単語ここから-->
 * [pa](content/P.md#pa)
 * [piro](content/P.md#piro)
 
@@ -49,3 +50,4 @@
 
 ## N
 * [nies](content/N.md#nies)
+<!--TODO: 説明未作成単語ここまで-->
