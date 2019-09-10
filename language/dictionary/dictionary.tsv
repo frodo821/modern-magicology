@@ -1,0 +1,48 @@
+BEGIN_HEADER			
+LANGUAGE_LONG	Magionish		
+LANGUAGE_CODE	MS		
+PHONETICAL_CHARS	a b c s i u e o y p r n		
+END_HEADER			
+BEGIN_DICTIONARY			
+aer	NOUN	空気。風。気体。	aere
+aere	ADVERB	気体の 空気じみた、空気の	aer
+arrace	ADVERB	矢の形をした、矢の形の、矢型の、矢印状の	
+arro	NOUN	矢。矢じり。 矢印。	
+ausoras	NOUN	権限。権力。	
+barco	NOUN	壁。さえぎる物。障壁。	
+ben	NOUN	指示代名詞の1つ。(心理的に)遠い距離にあるものを指すときに使う。	
+bena	NOUN	敵。的。相手。	
+bino	VERB	そうである。そうなる。そういう状態である。	
+bise	ADVERB	大きい、強い	
+carne	ADVERB	寒い。冷たい。氷のような。	carno
+carno	NOUN	氷。凍ったもの。	carne
+carno	VERB	凍る。凍える。	
+ces	NOUN	指示代名詞の1つ。指しているものを話し手がわからないときに使う。疑問代名詞。人称の場合も用いる	
+cese	NOUN	疑問修飾詞。どのような性質かたずねるときに使う。	
+earce	NOUN	土、地面	
+earce	ADVERB	土の、地面の 硬い	
+es	NOUN	指示代名詞の1つ。特定のものをあらわさない場合や、適切な主語が存在しない場合、直前で話題になった語をあらわす場合に使用する。	
+incopiro	VERB	現れる。出現する。	
+nies	NOUN	指示代名詞の1つ。(心理的に)近い距離にあるものを指すときに使う。	
+pa	NOUN	一人称代名詞。私。	
+piribero	VERB	弾ける。爆発する。	
+piro	NOUN	火、炎。 燃えているもの	
+piro	VERB	燃える。燃焼する。火を起こす。	
+piroincopiroros	VERB	火を起こす道具。	
+pracro	VERB	～に変化する。その形になる。	
+reser	NOUN	時間。時。	resere
+resere	ADVERB	過ぎる、過去の 時間軸の、時間的な	reser
+si	NOUN	三人称代名詞。男女の区別はない。あの人、彼、彼女。	
+siro	VERB	飛ぶ。飛行する。	
+spuca	NOUN	空間。 何かを内包するもの。 隙間。	
+spuce	ADVERB	空間の 広大な、広い 空の、空白の	spuca
+yacor	NOUN	水。水分。 液体。	yacore
+yacore	ADVERB	液体の、液状の 不定形の	yacor
+yapo	VERB	持っている。所持している。	
+yu	NOUN	二人称代名詞。男女の区別はない。あなた。	
+END_DICTIONARY			
+BEGIN_DEFINITION			
+NOUN	名詞		
+ADVERB	修飾詞		
+VERB	動詞		
+END_DEFINITION			

@@ -1,11 +1,29 @@
 # Y
 
-## yacor
-æ„å‘³:
-1. æ°´ã€æ¶²ä½“
-
-å‚è€ƒ:
-* [yacore](#yacore)
-
 ## yu
-äºŒäººç§°ä»£åè©žã€‚å˜æ•°ã€‚
+ˆÓ–¡:  
+1. <–¼ŽŒ>  
+  “ñlÌ‘ã–¼ŽŒB’j—‚Ì‹æ•Ê‚Í‚È‚¢B‚ ‚È‚½B  
+
+## yapo
+ˆÓ–¡:  
+1. <“®ŽŒ>  
+  Ž‚Á‚Ä‚¢‚éBŠŽ‚µ‚Ä‚¢‚éB  
+
+## yacor
+ˆÓ–¡:  
+1. <–¼ŽŒ>  
+  …B…•ªB  
+  ‰t‘ÌB  
+
+ŠÖ˜AŒê:  
+* [yacore](./Y.md#yacore)
+
+## yacore
+ˆÓ–¡:  
+1. <CüŽŒ>  
+  ‰t‘Ì‚ÌA‰tó‚Ì  
+  •s’èŒ`‚Ì  
+
+ŠÖ˜AŒê:  
+* [yacor](./Y.md#yacor)
